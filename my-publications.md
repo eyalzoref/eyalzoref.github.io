@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: My Blog
+subtitle: A collection of ideas, stories and publications from my own experience
+---
 ## My Publications
 
 Design-First Approach in microservices development
