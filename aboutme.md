@@ -4,8 +4,6 @@ title: About me
 subtitle: Here's my story
 ---
 
-### My story
-
 Experienced technology leader with a proven track record of introducing innovative concepts and transforming them into scale-able products. 
 
 Have served as a R&D Manager that always look for ways to innovate, while adopting cutting-edge technologies and reducing the time to market and keeping on agile work processes. 
