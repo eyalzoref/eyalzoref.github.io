@@ -1,18 +1,3 @@
----
-layout: post
-title: Design-First Approach in microservices development
-subtitle: Article published on Medium
-tags: [microservices, springboot, openapi, swagger, codegen]
-comments: false
----
----
-layout: post
-title: The power of Inner Source: Why build a cross- organization developers’ community?
-subtitle: Article published on LinkedIn
-tags: [innersource,developercommunity,devleadership]
-comments: false
----
-
 ## My Publications
 
 
