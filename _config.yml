@@ -230,7 +230,7 @@ gtm: "GTM-K8BFGBZF"
 #  mapping: pathname
 #  reactions-enabled: 1
 #  emit-metadata: 0
-theme: dark
+theme: light
 
 ################
 # --- Misc --- #
