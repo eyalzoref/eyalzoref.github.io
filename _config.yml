@@ -20,6 +20,7 @@ author: Eyal Zoref
 ###############################################
 
 navbar-links:
+  Blog: "my-publications.md"
   About Me: "aboutme"
 
 ################
