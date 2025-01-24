@@ -3,7 +3,11 @@ layout: page
 title: My Blog
 subtitle: A collection of ideas, stories and publications from my own experience
 ---
+
 ## My Publications
+
+Business Automation: The High-Way to Up-Scaling
+[Link to the published Article](https://medium.com/@eyalzoref_26637/business-automation-the-high-way-to-up-scaling-c13994e52b1d)
 
 Design-First Approach in microservices development
 
