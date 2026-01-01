@@ -20,3 +20,4 @@ subtitle: Published articles collection from my experience
 ### The power of Inner Source: Why build a cross- organization developers’ community?
 
 [Link to the published Article](https://www.linkedin.com/pulse/power-inner-source-why-build-cross-organization-developers-zoref/?trackingId=sgATLcYSTFSO8oF6Do78uA%3D%3D)
+![The power of Inner Source cross-organization developer's community](https://raw.githubusercontent.com/eyalzoref/eyalzoref.github.io/eddc063ad3e4cb8033c898e922c857185c3f10d5/assets/img/Gemini_Generated_power_of_inner_src.png)
