@@ -1,0 +1,36 @@
+[ 
+ 
+ 
+{ 
+"title"    : "About me", 
+"desc"     : "About me", 
+"category" : "page", 
+"url"      : "/aboutme/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Hi, I&#39;m Eyal Zoref", 
+"desc"     : "Hi, I&#39;m Eyal Zoref", 
+"category" : "page", 
+"url"      : "/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "My Publications", 
+"desc"     : "My Publications", 
+"category" : "page", 
+"url"      : "/my-publications/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Tag Index", 
+"desc"     : "Tag Index", 
+"category" : "page", 
+"url"      : "/tags/", 
+"date"     : "January 1, 1970" 
+} 
+ 
+]
